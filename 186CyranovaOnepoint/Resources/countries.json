@@ -1,0 +1,167 @@
+[
+  {
+    "country": "France",
+    "currency": "Euro (EUR)",
+    "exchangeRateUSD": 1.08,
+    "tipping": "Service included; round up 5–10% for great service.",
+    "power": "Type C / E",
+    "voltage": "230V",
+    "emergency": "112",
+    "phrases": ["Bonjour", "Merci", "L'addition, s'il vous plaît", "Où est la gare?", "Parlez-vous anglais?"],
+    "timeZoneIdentifier": "Europe/Paris"
+  },
+  {
+    "country": "Japan",
+    "currency": "Yen (JPY)",
+    "exchangeRateUSD": 0.0067,
+    "tipping": "Tipping is not customary and may cause confusion.",
+    "power": "Type A / B",
+    "voltage": "100V",
+    "emergency": "110",
+    "phrases": ["Konnichiwa", "Arigatou", "Sumimasen", "Eigo wo hanasemasu ka?", "Toire wa doko desu ka?"],
+    "timeZoneIdentifier": "Asia/Tokyo"
+  },
+  {
+    "country": "United States",
+    "currency": "US Dollar (USD)",
+    "exchangeRateUSD": 1.0,
+    "tipping": "15–20% at restaurants; tip bartenders and taxis.",
+    "power": "Type A / B",
+    "voltage": "120V",
+    "emergency": "911",
+    "phrases": ["Hello", "Thank you", "Where is the restroom?", "How much is this?", "Could you help me?"],
+    "timeZoneIdentifier": "America/New_York"
+  },
+  {
+    "country": "United Kingdom",
+    "currency": "Pound (GBP)",
+    "exchangeRateUSD": 1.27,
+    "tipping": "10–12.5% if service charge is not included.",
+    "power": "Type G",
+    "voltage": "230V",
+    "emergency": "999",
+    "phrases": ["Hello", "Cheers", "The bill, please", "Where is the tube?", "Could I get directions?"],
+    "timeZoneIdentifier": "Europe/London"
+  },
+  {
+    "country": "Spain",
+    "currency": "Euro (EUR)",
+    "exchangeRateUSD": 1.08,
+    "tipping": "Round up or leave small change; 5–10% for excellent service.",
+    "power": "Type C / F",
+    "voltage": "230V",
+    "emergency": "112",
+    "phrases": ["Hola", "Gracias", "La cuenta, por favor", "¿Dónde está el baño?", "¿Habla inglés?"],
+    "timeZoneIdentifier": "Europe/Madrid"
+  },
+  {
+    "country": "Italy",
+    "currency": "Euro (EUR)",
+    "exchangeRateUSD": 1.08,
+    "tipping": "Service often included; round up the bill.",
+    "power": "Type C / F / L",
+    "voltage": "230V",
+    "emergency": "112",
+    "phrases": ["Ciao", "Grazie", "Il conto, per favore", "Dov'è la stazione?", "Parla inglese?"],
+    "timeZoneIdentifier": "Europe/Rome"
+  },
+  {
+    "country": "Germany",
+    "currency": "Euro (EUR)",
+    "exchangeRateUSD": 1.08,
+    "tipping": "Round up 5–10%; hand cash to the server.",
+    "power": "Type C / F",
+    "voltage": "230V",
+    "emergency": "112",
+    "phrases": ["Guten Tag", "Danke", "Die Rechnung, bitte", "Wo ist der Bahnhof?", "Sprechen Sie Englisch?"],
+    "timeZoneIdentifier": "Europe/Berlin"
+  },
+  {
+    "country": "Thailand",
+    "currency": "Baht (THB)",
+    "exchangeRateUSD": 0.028,
+    "tipping": "Not required; small tip appreciated in tourist areas.",
+    "power": "Type A / B / C / O",
+    "voltage": "230V",
+    "emergency": "191",
+    "phrases": ["Sawadee", "Khop khun", "Check bin", "Hong nam yu thi nai?", "Pood paasaa anggrit dai mai?"],
+    "timeZoneIdentifier": "Asia/Bangkok"
+  },
+  {
+    "country": "Australia",
+    "currency": "Australian Dollar (AUD)",
+    "exchangeRateUSD": 0.65,
+    "tipping": "10% for good restaurant service; not mandatory.",
+    "power": "Type I",
+    "voltage": "230V",
+    "emergency": "000",
+    "phrases": ["G'day", "Thanks", "The bill, please", "Where's the loo?", "Could you help me?"],
+    "timeZoneIdentifier": "Australia/Sydney"
+  },
+  {
+    "country": "UAE",
+    "currency": "Dirham (AED)",
+    "exchangeRateUSD": 0.27,
+    "tipping": "10–15% at hotels and restaurants.",
+    "power": "Type G",
+    "voltage": "230V",
+    "emergency": "999",
+    "phrases": ["Marhaba", "Shukran", "Al faatoora", "Ayna al hammam?", "Hal tatahadath al ingliziyya?"],
+    "timeZoneIdentifier": "Asia/Dubai"
+  },
+  {
+    "country": "Brazil",
+    "currency": "Real (BRL)",
+    "exchangeRateUSD": 0.20,
+    "tipping": "10% service fee common; extra tip appreciated.",
+    "power": "Type C / N",
+    "voltage": "127V / 220V",
+    "emergency": "190",
+    "phrases": ["Olá", "Obrigado", "A conta, por favor", "Onde fica o banheiro?", "Você fala inglês?"],
+    "timeZoneIdentifier": "America/Sao_Paulo"
+  },
+  {
+    "country": "Mexico",
+    "currency": "Peso (MXN)",
+    "exchangeRateUSD": 0.058,
+    "tipping": "10–15% at restaurants; tip hotel staff.",
+    "power": "Type A / B",
+    "voltage": "127V",
+    "emergency": "911",
+    "phrases": ["Hola", "Gracias", "La cuenta, por favor", "¿Dónde está el baño?", "¿Habla inglés?"],
+    "timeZoneIdentifier": "America/Mexico_City"
+  },
+  {
+    "country": "Turkey",
+    "currency": "Lira (TRY)",
+    "exchangeRateUSD": 0.031,
+    "tipping": "5–10% at restaurants; round up taxis.",
+    "power": "Type C / F",
+    "voltage": "230V",
+    "emergency": "112",
+    "phrases": ["Merhaba", "Teşekkürler", "Hesap lütfen", "Tuvalet nerede?", "İngilizce biliyor musunuz?"],
+    "timeZoneIdentifier": "Europe/Istanbul"
+  },
+  {
+    "country": "South Korea",
+    "currency": "Won (KRW)",
+    "exchangeRateUSD": 0.00075,
+    "tipping": "Tipping is not customary.",
+    "power": "Type C / F",
+    "voltage": "220V",
+    "emergency": "112",
+    "phrases": ["Annyeonghaseyo", "Gamsahamnida", "Gyesanseo juseyo", "Hwajangsil eodi eyo?", "Yeongeo hal su isseoyo?"],
+    "timeZoneIdentifier": "Asia/Seoul"
+  },
+  {
+    "country": "Canada",
+    "currency": "Canadian Dollar (CAD)",
+    "exchangeRateUSD": 0.74,
+    "tipping": "15–20% at restaurants.",
+    "power": "Type A / B",
+    "voltage": "120V",
+    "emergency": "911",
+    "phrases": ["Hello", "Thank you", "The bill, please", "Where is the washroom?", "Could you help me?"],
+    "timeZoneIdentifier": "America/Toronto"
+  }
+]

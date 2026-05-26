@@ -1,0 +1,6 @@
+framework module Pods_186CyranovaOnepoint {
+  umbrella header "Pods-186CyranovaOnepoint-umbrella.h"
+
+  export *
+  module * { export * }
+}
