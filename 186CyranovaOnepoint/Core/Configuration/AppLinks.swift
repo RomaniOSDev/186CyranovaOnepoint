@@ -1,8 +1,8 @@
 import Foundation
 
 enum AppLink: String {
-    case privacyPolicy = "https://cyranovaonepoint186.site/privacy/206"
-    case termsOfUse = "https://cyranovaonepoint186.site/terms/206"
+    case privacyPolicy = "https://cyranovaonepoint.com/privacy-policy.html"
+    case termsOfUse = "https://cyranovaonepoint.com/support.html"
 
     var url: URL? {
         URL(string: rawValue)
